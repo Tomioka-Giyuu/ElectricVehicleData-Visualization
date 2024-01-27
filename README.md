@@ -33,9 +33,6 @@ Gain insights into the electric vehicle market by exploring this dataset. Unders
 4. Final Dashboard
    ![Final](Images/Final.png)
 
-5. [Screenshot 5 Title]
-   ![Screenshot 5](screenshots/screenshot5.png)
-
 ## Kaggle Dataset Link
 
 Access the dataset on Kaggle: [Electric Vehicle Dataset](https://www.kaggle.com/datasets/adilashrafi/elecrict-vehicle)
